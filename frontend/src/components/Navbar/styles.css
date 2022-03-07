@@ -1,0 +1,30 @@
+header {
+    background-color: var(--color-primary);
+    height: 60px;
+    display: flex;
+    align-items: center;
+
+}
+
+.mgmovie-nav-content {
+    font-size: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+}
+
+.mgmovie-nav-content h1 {
+    margin: 0;
+    font-weight: 700;
+}
+
+.mgmovie-contact-container {
+    display: flex;
+    align-items: center;
+}
+
+.mgmovie-contact-link {
+    margin: 0 0 0 10px;
+    font-size: 12px;
+}
