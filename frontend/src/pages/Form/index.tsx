@@ -36,7 +36,7 @@ function Form() {
                     </div>
                 </form >
                 <Link to ='/'>
-                <button className="btn btn-primary mgmovie-btn mt-3">Cancelar</button>                
+                    <button className="btn btn-primary mgmovie-btn mt-3">Cancelar</button>                
                 </Link>
             </div >
         </div >
